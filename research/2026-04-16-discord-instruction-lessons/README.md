@@ -11,6 +11,7 @@ Repo purpose: preserve what we learned, channel by channel, about improving Cass
 - `cross-cutting/01-core-lessons.md` — the main cross-channel synthesis
 - `cross-cutting/02-tweet-cards.md` — short bullets/cards for tweet digestion
 - `cross-cutting/03-long-form-article-opportunities.md` — article ideas and counts
+- `cross-cutting/04-beginner-practical-framing.md` — practical framing for readers with no agentic background
 - `digest.md` — single-file executive digest
 
 ## Verified date range
